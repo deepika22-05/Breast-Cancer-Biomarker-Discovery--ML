@@ -80,7 +80,7 @@ This project aims to identify prognostic breast cancer biomarkers using machine 
 
 The complete workflow including preprocessing, machine learning, enrichment analysis, and survival analysis is available here:
 
-[Open Notebook](notebooks/Breast_Cancer_Biomarker_Discovery.ipynb)
+[Open Notebook](notebooks/Breast_Cancer_Biomarker.ipynb)
 
 ## Conclusion
 
